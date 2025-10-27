@@ -1,12 +1,12 @@
 # awesome-discrete-diffusion-models
 
- [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![GitHub stars](https://img.shields.io/github/stars/isjakewong/awesome-discrete-diffusion-models?color=yellow)  ![GitHub forks](https://img.shields.io/github/forks/isjakewong/awesome-discrete-diffusion-models?color=green&label=Fork)
+ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![GitHub stars](https://img.shields.io/github/stars/diffusion-llms/awesome-discrete-diffusion-models)  ![GitHub forks](https://img.shields.io/github/forks/diffusion-llms/awesome-discrete-diffusion-models)
 
 A curated list of awesome discrete diffusion models resources.
 
 ## Contribution
 
-This repo is maintained by [Subham Sahoo](https://s-sahoo.com/), [Justin Deschenaux](https://jdeschena.github.io), and [Zhihan Yang](https://zhihanyang2022.github.io). Feel free to send [pull requests](https://github.com/isjakewong/awesome-discrete-diffusion-models/pulls) to add more papers! Papers must be added in a chronological sequence, with the most recent accepted papers taking precedence over unaccepted papers. Please use the following format: 
+This repo is maintained by [Subham Sahoo](https://s-sahoo.com/), [Justin Deschenaux](https://jdeschena.github.io), and [Zhihan Yang](https://zhihanyang2022.github.io). Feel free to send [pull requests](https://github.com/diffusion-llms/awesome-discrete-diffusion-models/pulls) to add more papers! Papers must be added in a chronological sequence, with the most recent accepted papers taking precedence over unaccepted papers. Please use the following format: 
 ```
 {paper-name}, {conference} {year} [[link-to-the-abstract-page], [code-if-available]]
 ```
