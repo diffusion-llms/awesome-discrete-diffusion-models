@@ -1,6 +1,6 @@
 # awesome-discrete-diffusion-models
 
- [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![GitHub stars](https://img.shields.io/github/stars/diffusion-llms/awesome-discrete-diffusion-models)  ![GitHub forks](https://img.shields.io/github/forks/diffusion-llms/awesome-discrete-diffusion-models)
+![GitHub stars](https://img.shields.io/github/stars/diffusion-llms/awesome-discrete-diffusion-models)  ![GitHub forks](https://img.shields.io/github/forks/diffusion-llms/awesome-discrete-diffusion-models)
 
 A curated list of awesome discrete diffusion models resources.
 
